@@ -16,7 +16,7 @@ nav_order: 6
       {% for item in future_conferences %}  
       <div class="conference-item">  
       <p><strong>{{ item.date | date: "%B %d, %Y" }}</strong></p> 
-      <p><it>{{ item.title }}</it></p> 
+      <p>{{ item.title }}</p> 
       <p><strong>Location:</strong> {{ item.location }}</p>  
       <p>{{ item.website}} </p>
       <p>{{ item.content }}  </p>
