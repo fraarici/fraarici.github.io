@@ -17,9 +17,7 @@ nav_order: 6
   <div class="conference-item">  
       <p>{{ item.title }}</p> 
             <p><strong>{{ item.date | date: "%B %d, %Y" }}</strong></p> 
-      <p><strong>Location:</strong> {{ item.location }}</p>  
-      <p>{{ item.website}}</p>
-      <p>{{ item.content }}</p>
+      <p><strong>Location:</strong> {{ item.location }}</p> 
   </div>  
     {% endfor %}  
 {% else %}
