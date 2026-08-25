@@ -421,6 +421,11 @@ ninja.data = [{
           description: "",
           section: "Events",handler: () => {
               window.location.href = "/events/2025-05-26/";
+            },},{id: "events-noncommutative-geometry-operator-systems-and-quantum-information-theory",
+          title: 'Noncommutative Geometry, Operator Systems, and Quantum Information Theory',
+          description: "",
+          section: "Events",handler: () => {
+              window.location.href = "/events/2027-03-15/";
             },},{id: "news-i-have-been-awarded-a-vidi-grant-from-nwo-to-study-the-noncommutative-geometry-of-quantum-symmetric-domains",
           title: 'I have been awarded a Vidi Grant from NWO to study the Noncommutative...',
           description: "",
