@@ -14,12 +14,12 @@ nav_order: 6
 
   {% if future_conferences.size > 0 %}
       {% for item in future_conferences %}  
-      <div class="conference-item">  
+  <div class="conference-item">  
       <p>{{ item.title }}</p> 
             <p><strong>{{ item.date | date: "%B %d, %Y" }}</strong></p> 
       <p><strong>Location:</strong> {{ item.location }}</p>  
-      <p>{{ item.website}} </p>
-      <p>{{ item.content }}  </p>
+      <p>{{ item.website}}</p>
+      <p>{{ item.content }}</p>
   </div>  
     {% endfor %}  
 {% else %}
