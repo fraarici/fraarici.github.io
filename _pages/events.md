@@ -20,8 +20,7 @@ nav_order: 6
       <p><strong>Location:</strong> {{ item.location }}</p>  
       <p>{{ item.website}} </p>
       <p>{{ item.content }}  </p>
-    
-    </div>  
+  </div>  
     {% endfor %}  
 {% else %}
   <p>No upcoming conferences.</p>
