@@ -18,7 +18,9 @@ nav_order: 6
       <p><it>{{ item.title }}</it></p> 
       <p><strong>Date:</strong> {{ item.date | date: "%B %d, %Y" }}</p>  
       <p><strong>Location:</strong> {{ item.location }}</p>  
+      <p>{{ item.website}} </p>
       <p>{{ item.content }}  </p>
+    
     </div>  
     {% endfor %}  
 {% else %}
