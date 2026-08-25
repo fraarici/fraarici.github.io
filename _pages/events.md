@@ -13,15 +13,14 @@ nav_order: 6
 ### Upcoming Conferences and Workshops
 
   {% if future_conferences.size > 0 %}
-{% for item in future_conferences %}  
-  <div class="conference-item">  
-    <p><strong>{{ item.title }}</strong></p> 
-    <p><strong>Date:</strong> {{ item.date | date: "%B %d, %Y" }}</p>  
-    <p><strong>Location:</strong> {{ item.location }}</p>  
-    <p>{{ item.content }}  </p>
-  </div>  
-{% endfor %}  
-
+      {% for item in future_conferences %}  
+      <div class="conference-item">  
+      <p><strong>{{ item.title }}</strong></p> 
+      <p><strong>Date:</strong> {{ item.date | date: "%B %d, %Y" }}</p>  
+      <p><strong>Location:</strong> {{ item.location }}</p>  
+      <p>{{ item.content }}  </p>
+    </div>  
+    {% endfor %}  
 {% else %}
   <p>No upcoming conferences.</p>
 {% endif %}
