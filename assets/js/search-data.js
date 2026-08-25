@@ -421,6 +421,11 @@ ninja.data = [{
           description: "",
           section: "Events",handler: () => {
               window.location.href = "/events/2025-05-26/";
+            },},{id: "events-non-commutative-function-theory-a-link-between-operator-theory-and-random-matrices",
+          title: 'Non-commutative Function Theory: A Link between Operator Theory and Random Matrices',
+          description: "",
+          section: "Events",handler: () => {
+              window.location.href = "/events/2027-01-31/";
             },},{id: "events-noncommutative-geometry-operator-systems-and-quantum-information-theory",
           title: 'Noncommutative Geometry, Operator Systems, and Quantum Information Theory',
           description: "",
