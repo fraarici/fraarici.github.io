@@ -14,6 +14,7 @@ nav_order: 6
 
   {% if future_conferences.size > 0 %}
       {% for item in future_conferences %}  
+---
   <div class="conference-item">  
       <p><it>{{ item.title }}</it></p> 
             <p><strong>{{ item.date | date: "%B %d, %Y" }}</strong></p> 
@@ -28,10 +29,12 @@ nav_order: 6
 ### Recenet Past Events 
   
 {% for item in past_conferences %}  
+---
   <div class="conference-item">  
-    <p><strong>{{ item.title }}</strong></p>  
+    <p><it>{{ item.title }}</it></p>  
     <p><strong>Date:</strong> {{ item.date | date: "%B %d, %Y" }}</p>  
     <p><strong>Location:</strong> {{ item.location }}</p>  
     {{ item.content }}  
   </div>  
+  ---
 {% endfor %}
