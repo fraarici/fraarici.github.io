@@ -19,6 +19,7 @@ nav_order: 6
             <p><strong>{{ item.date | date: "%B %d, %Y" }}</strong></p> 
       <p><strong>Location:</strong> {{ item.location }}</p> 
   </div>  
+  ---
     {% endfor %}  
 {% else %}
   <p>No upcoming conferences.</p>
