@@ -25,7 +25,7 @@ nav_order: 6
   <p>No upcoming conferences.</p>
 {% endif %}
 
-### Past Events 
+### Recenet Past Events 
   
 {% for item in past_conferences %}  
   <div class="conference-item">  
