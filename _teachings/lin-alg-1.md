@@ -1,9 +1,7 @@
 ---
 layout: course
 title: Lineaire Algebra 1
-description: In dit college worden de grondbegrippen van de lineaire algebra behandeld. We besteden aandacht aan zowel een aantal abstracte begrippen en structuren uit de lineaire algebra, als ook aan de bijbehorende rekenvaardigheden en een aantal toepassingen. De volgende onderwerpen komen hierbij aan de orde:
-
-    Vectoren: optelling, scalaire vermenigvuldiging, inwendig product.
+description: In dit college worden de grondbegrippen van de lineaire algebra behandeld. We besteden aandacht aan zowel een aantal abstracte begrippen en structuren uit de lineaire algebra, als ook aan de bijbehorende rekenvaardigheden en een aantal toepassingen. De volgende onderwerpen komen hierbij aan de orde: Vectoren: optelling, scalaire vermenigvuldiging, inwendig product.
     Oplossen van stelsels lineaire vergelijkingen d.m.v. Gauss-eliminatie.
     Matrices en determinanten. - Vectormeetkunde in Rn.
     Algemene vectorruimten, lineaire deelruimten, lineaire afbeeldingen, basistransformaties.
