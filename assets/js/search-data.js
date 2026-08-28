@@ -459,6 +459,11 @@ ninja.data = [{
           description: "This course provides an introduction to machine learning concepts, algorithms, and applications. Students will learn about supervised and unsupervised learning, model evaluation, and practical implementations.",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/introduction-to-machine-learning/";
+            },},{id: "teachings-lin-alg-1",
+          title: 'Lin Alg 1',
+          description: "",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teachings/lin-alg-1/";
             },},{
         id: 'social-cv',
         title: 'CV',
