@@ -11,4 +11,6 @@ year: 2026-2027
 term: Fall
 location: S
 time: Wednesdays, 9:00-10:45
-course_id: lin-alg-1
+course_id: 4081LAN1XY
+schedule: TBD
+--
