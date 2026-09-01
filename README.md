@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am Francesca Arici and I am an assistant professor in mathematics in the Analysis and Dynamical Systems group at Leiden University.
+I am Francesca Arici and I am an associate professor (UHD) in mathematics in the Analysis and Dynamical Systems group at Leiden University.
 
 My research interests are in the field of noncommutative geometry and its interplay with theoretical physics. 
 
