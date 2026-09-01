@@ -27,6 +27,6 @@ De volgende onderwerpen komen aan de orde:
 
 ## Grading
 
-- Oefeningen / Assignments: 40%
-- Middentermijn (Midterm): 20%
-- Eindexamen / Project: 40%
+- Oefeningen / Assignments: 10%
+- Toets: 20%
+- Tentamen : 70%
