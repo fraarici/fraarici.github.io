@@ -449,11 +449,6 @@ ninja.data = [{
           description: "2024 NWO Vidi Grant",
           section: "Projects",handler: () => {
               window.location.href = "/projects/vidi/";
-            },},{id: "teachings-data-science-fundamentals",
-          title: 'Data Science Fundamentals',
-          description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
-          section: "Teachings",handler: () => {
-              window.location.href = "/teachings/data-science-fundamentals/";
             },},{id: "teachings-lineaire-algebra-1",
           title: 'Lineaire Algebra 1',
           description: "In dit college worden de grondbegrippen van de lineaire algebra behandeld. We besteden aandacht aan zowel een aantal abstracte begrippen en structuren uit de lineaire algebra als aan toepassingen.",
