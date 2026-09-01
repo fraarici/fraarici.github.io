@@ -16,3 +16,6 @@ De volgende onderwerpen komen hierbij aan de orde: Vectoren: optelling, scalaire
     - Matrices en determinanten. - Vectormeetkunde in Rn.
     - Algemene vectorruimten, lineaire deelruimten, lineaire afbeeldingen, basistransformaties.
    -  Eigenwaarden en eigenvectoren, diagonalisatie.
+## Prerequisites
+None
+## Grading
