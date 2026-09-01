@@ -459,9 +459,9 @@ ninja.data = [{
           description: "This course provides an introduction to machine learning concepts, algorithms, and applications. Students will learn about supervised and unsupervised learning, model evaluation, and practical implementations.",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/introduction-to-machine-learning/";
-            },},{id: "teachings-lin-alg-1",
-          title: 'Lin Alg 1',
-          description: "",
+            },},{id: "teachings-lineaire-algebra-1",
+          title: 'Lineaire Algebra 1',
+          description: "In dit college worden de grondbegrippen van de lineaire algebra behandeld. We besteden aandacht aan zowel een aantal abstracte begrippen en structuren uit de lineaire algebra als aan toepassingen.",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/lin-alg-1/";
             },},{
