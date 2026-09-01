@@ -454,11 +454,6 @@ ninja.data = [{
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/data-science-fundamentals/";
-            },},{id: "teachings-introduction-to-machine-learning",
-          title: 'Introduction to Machine Learning',
-          description: "This course provides an introduction to machine learning concepts, algorithms, and applications. Students will learn about supervised and unsupervised learning, model evaluation, and practical implementations.",
-          section: "Teachings",handler: () => {
-              window.location.href = "/teachings/introduction-to-machine-learning/";
             },},{id: "teachings-lineaire-algebra-1",
           title: 'Lineaire Algebra 1',
           description: "In dit college worden de grondbegrippen van de lineaire algebra behandeld. We besteden aandacht aan zowel een aantal abstracte begrippen en structuren uit de lineaire algebra als aan toepassingen.",
