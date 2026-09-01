@@ -3,7 +3,7 @@ layout: course
 title: Lineaire Algebra 1
 description: In dit college worden de grondbegrippen van de lineaire algebra behandeld. We besteden aandacht aan zowel een aantal abstracte begrippen en structuren uit de lineaire algebra als aan toepassingen.
 instructor: Francesca Arici, Martin Bright
-year: 2026
+year: 2026-2027
 term: Fall
 location: Gorlaeus Building CM1.26
 time: Wednesdays, 9:00-10:45
