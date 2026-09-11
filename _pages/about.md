@@ -29,7 +29,7 @@ latest_posts:
 
 I am an associate professor in mathematics (UHD) affiliated to the Analysis and Dynamical Systems section at the Mathematical Insistitute at Leiden University.
 
-I am a member of the NCG group and of the Functional Analysis group.
+I am a member of the <a href="https://ncg-leiden.github.io/" target="_blank">NCG group</a> and of the Functional Analysis group.
 
 My research is currently supported by NWO throught the Vidi grant <a href="https://www.nwo.nl/projecten/mhsor46590" target="_blank">The Noncommutative Geometry of Quantum Symmetric Domains</a>.
 
