@@ -1,0 +1,8 @@
+layout: page  
+title: "Synergies Between Jordan Theory & Operator Algebras""  
+date: 2027-04-19
+end_date: 2027-04-23
+location: Lorentz Center, Leiden  
+type: Workshop  
+website: https://lorentzcenter.nl
+
