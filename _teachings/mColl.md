@@ -10,4 +10,4 @@ time: Fridays, 13:15-15:00
 course_id: 4373MCOLQY
 ---
 ## Course overview
-Check the [Course page](https://github.com/fraarici/MScColl)
+Check the [Course page](https://fraarici.github.io/MScColl/)
