@@ -8,7 +8,6 @@ term: Fall
 location: Gorlaeus Building CM1.26
 time: Wednesdays, 9:00-10:45
 course_id: 4081LAN1XY
-schedule: TBD
 ---
 
 ## Course overview
@@ -27,6 +26,6 @@ De volgende onderwerpen komen aan de orde:
 
 ## Grading
 
-- Oefeningen / Assignments: 10%
+- Huiswerk / Assignments: 10%
 - Toets: 20%
 - Tentamen : 70%
