@@ -14,12 +14,18 @@ nav_order: 6
 
   {% if future_conferences.size > 0 %}
       {% for item in future_conferences %}  
----
   <div class="conference-item">  
-      <p><strong>{{ item.date | date: "%B %d, %Y" }}</strong>. <it>{{ item.title }}</it></p> 
-          <p><strong>Location:</strong> {{ item.location }}</p> 
+      <p>
+        <strong>
+          {% if item.end_date %}
+            {{ item.date | date: "%B %d" }} – {{ item.end_date | date: "%B %d, %Y" }}
+          {% else %}
+            {{ item.date | date: "%B %d, %Y" }}
+          {% endif %}
+        </strong>. <em>{{ item.title }}</em>
+      </p> 
+      <p><strong>Location:</strong> {{ item.location }}</p> 
   </div>  
----
     {% endfor %}  
 {% else %}
   <p>No upcoming conferences.</p>
@@ -28,11 +34,17 @@ nav_order: 6
 ### Recent Past Events 
   
 {% for item in past_conferences %}  
----
   <div class="conference-item">  
- <p><strong>{{ item.date | date: "%B %d, %Y" }}</strong>. <it>{{ item.title }}</it></p> 
-          <p><strong>Location:</strong> {{ item.location }}</p> 
+    <p>
+      <strong>
+        {% if item.end_date %}
+          {{ item.date | date: "%B %d" }} – {{ item.end_date | date: "%B %d, %Y" }}
+        {% else %}
+          {{ item.date | date: "%B %d, %Y" }}
+        {% endif %}
+      </strong>. <em>{{ item.title }}</em>
+    </p> 
+    <p><strong>Location:</strong> {{ item.location }}</p> 
     {{item.content}}
   </div>  
- ---
 {% endfor %}
