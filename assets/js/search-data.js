@@ -431,6 +431,11 @@ ninja.data = [{
           description: "",
           section: "Events",handler: () => {
               window.location.href = "/events/2027-03-15/";
+            },},{id: "events-synergies-between-jordan-theory-and-operator-algebras",
+          title: 'Synergies Between Jordan Theory and Operator Algebras',
+          description: "",
+          section: "Events",handler: () => {
+              window.location.href = "/events/2027-04-19/";
             },},{id: "news-i-have-been-awarded-a-vidi-grant-from-nwo-to-study-the-noncommutative-geometry-of-quantum-symmetric-domains",
           title: 'I have been awarded a Vidi Grant from NWO to study the Noncommutative...',
           description: "",
