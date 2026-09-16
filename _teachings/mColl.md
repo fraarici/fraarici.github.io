@@ -8,5 +8,5 @@ term: All-year course
 location: Gorlaeus Building BW0.17
 time: Fridays, 13:15-15:00
 course_id: 4373MCOLQY
-schedule:
+schedule: Check the [Course page](https://github.com/fraarici/MScColl)
 ---
