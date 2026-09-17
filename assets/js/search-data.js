@@ -442,15 +442,15 @@ ninja.data = [{
           section: "News",},{id: "news-welcome-to-phd-student-max-schmidt-who-will-be-supported-by-my-nwo-vidi-grant",
           title: 'Welcome to PhD student Max Schmidt, who will be supported by my NWO...',
           description: "",
-          section: "News",},{id: "news-welcome-to-phd-student-matt-verhoeven-who-will-be-working-with-bram-mesland-irene-auguilera-uva-and-myself-as-part-of-the-consortium-emergence-at-all-scales",
-          title: 'Welcome to PhD student Matt Verhoeven, who will be working with Bram Mesland,...',
-          description: "",
           section: "News",},{id: "news-on-leave-from-april-22nd-to-august-18th",
           title: 'On leave from April 22nd to August 18th.',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "projects-the-ncg-of-sphere-bundles",
+            },},{id: "news-welcome-to-phd-student-matt-verhoeven-who-will-be-working-with-bram-mesland-irene-auguilera-uva-and-myself-as-part-of-the-consortium-emergence-at-all-scales",
+          title: 'Welcome to PhD student Matt Verhoeven, who will be working with Bram Mesland,...',
+          description: "",
+          section: "News",},{id: "projects-the-ncg-of-sphere-bundles",
           title: 'The NCG of sphere bundles',
           description: "2018 NWO Veni Grant",
           section: "Projects",handler: () => {
